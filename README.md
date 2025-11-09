@@ -58,5 +58,4 @@ Or run individual scripts:
 - Commit small units with descriptive messages
 - Use tags/releases for final submission (e.g., `v1.0`)
 - Keep README and docs updated
-
-d
+  
